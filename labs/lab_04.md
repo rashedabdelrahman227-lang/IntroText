@@ -123,7 +123,7 @@ The system requires a commit message in the textbox labeled (2) in the screensho
 Modify and commit your files as many times as you need.
 
 
-![commit dialog](img/github_dev_commit_dark.png)
+![comit dialog](img/github_dev_commit_dark.png)
 
 
 
